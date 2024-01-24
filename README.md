@@ -7,4 +7,4 @@ Following functions are involved in this library:
 2. getche() function.
 3. kbhit() function.
 4. 43 Text Colors.
-5. 7 Background Colors which are mostly used in projects.
+5. 8 Background Colors which are mostly used in projects.
